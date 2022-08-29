@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/yolov5_custom_licensePlate/dataset_v5m/train
+val: /content/drive/MyDrive/yolov5_custom_licensePlate/dataset_v5m/val
+# number of classes
+nc: 1
+
+# class names
+names: ['License_Plate']
